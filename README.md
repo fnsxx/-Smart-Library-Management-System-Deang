@@ -13,5 +13,12 @@ Student Name:
 Course:
 Section:
 
+ feature/member-management
+Member Management Module
+Features
+- Register New Member
+- Update Member Information
+- Delete Member Record
+- Search Member
 
 
